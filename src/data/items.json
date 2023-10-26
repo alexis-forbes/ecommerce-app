@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "iMac 24",
+    "price": 10099,
+    "imgUrl": "/imgs/imac24.png"
+  },
+  {
+    "id": 2,
+    "name": "Mini Mac",
+    "price": 999,
+    "imgUrl": "/imgs/mac-mini.png"
+  },
+  {
+    "id": 3,
+    "name": "MacBook Pro",
+    "price": 16005,
+    "imgUrl": "/imgs/macbook-pro.png"
+  },
+  {
+    "id": 4,
+    "name": "Studio Display",
+    "price": 599,
+    "imgUrl": "/imgs/studio-display.png"
+  },
+  {
+    "id": 5,
+    "name": "iMac 24",
+    "price": 10099,
+    "imgUrl": "/imgs/imac24.png"
+  },
+  {
+    "id": 6,
+    "name": "Mini Mac",
+    "price": 999,
+    "imgUrl": "/imgs/mac-mini.png"
+  },
+  {
+    "id": 7,
+    "name": "MacBook Pro",
+    "price": 16005,
+    "imgUrl": "/imgs/macbook-pro.png"
+  },
+  {
+    "id": 8,
+    "name": "Studio Display",
+    "price": 599,
+    "imgUrl": "/imgs/studio-display.png"
+  },
+  {
+    "id": 9,
+    "name": "iMac 24",
+    "price": 10099,
+    "imgUrl": "/imgs/imac24.png"
+  },
+  {
+    "id": 10,
+    "name": "Mini Mac",
+    "price": 999,
+    "imgUrl": "/imgs/mac-mini.png"
+  },
+  {
+    "id": 11,
+    "name": "MacBook Pro",
+    "price": 16005,
+    "imgUrl": "/imgs/macbook-pro.png"
+  },
+  {
+    "id": 12,
+    "name": "Studio Display",
+    "price": 599,
+    "imgUrl": "/imgs/studio-display.png"
+  },
+  {
+    "id": 13,
+    "name": "Studio Display",
+    "price": 599,
+    "imgUrl": "/imgs/studio-display.png"
+  },
+  {
+    "id": 14,
+    "name": "iMac 24",
+    "price": 10099,
+    "imgUrl": "/imgs/imac24.png"
+  },
+  {
+    "id": 15,
+    "name": "Mini Mac",
+    "price": 999,
+    "imgUrl": "/imgs/mac-mini.png"
+  },
+  {
+    "id": 16,
+    "name": "MacBook Pro",
+    "price": 16005,
+    "imgUrl": "/imgs/macbook-pro.png"
+  },
+  {
+    "id": 17,
+    "name": "Studio Display",
+    "price": 599,
+    "imgUrl": "/imgs/studio-display.png"
+  },
+  {
+    "id": 18,
+    "name": "Studio Display",
+    "price": 599,
+    "imgUrl": "/imgs/studio-display.png"
+  },
+  {
+    "id": 19,
+    "name": "iMac 24",
+    "price": 10099,
+    "imgUrl": "/imgs/imac24.png"
+  },
+  {
+    "id": 20,
+    "name": "Mini Mac",
+    "price": 999,
+    "imgUrl": "/imgs/mac-mini.png"
+  },
+  {
+    "id": 21,
+    "name": "MacBook Pro",
+    "price": 16005,
+    "imgUrl": "/imgs/macbook-pro.png"
+  },
+  {
+    "id": 22,
+    "name": "Studio Display",
+    "price": 599,
+    "imgUrl": "/imgs/studio-display.png"
+  }
+]
